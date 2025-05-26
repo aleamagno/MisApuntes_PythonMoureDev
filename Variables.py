@@ -1,1 +1,0 @@
-"""aqui comenzare a estudiar el tema de las variables"""
